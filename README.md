@@ -15,3 +15,7 @@ Idealmente un mini tracker GPS dormiente che possa risvegliarsi a seguito di un 
 
 ## Licenza
 GPLv3
+
+![Foto Progettino](Foto1.jpg) 
+![Foto Progettino](Foto2.jpg) 
+![Foto Progettino](Foto3.jpg) 
